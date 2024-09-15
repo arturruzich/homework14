@@ -7,3 +7,11 @@
 .idea/misc.xml
 .idea/workspace.xml
 Homework_13/
+Homework_13/
+.idea/workspace.xml
+.idea/misc.xml
+.idea
+Homework_13
+homework_14
+Homework_15
+homework_16
