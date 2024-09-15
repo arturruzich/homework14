@@ -15,3 +15,5 @@ Homework_13
 homework_14
 Homework_15
 homework_16
+.idea/
+Homework_13/
